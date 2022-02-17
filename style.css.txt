@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+	<head>
+        	<meta charset="UTF-8">
+		<title>Miguel Gabriel</title>	 
+	</head>
+<body>
+	<h1><center>Quem sou eu ?</center></h1>
+    	
+    <div class="foto">
+       <img src="img/FotoPessoa.jpg" alt="Minha foto" title="colocar meu nome">
+      </div>
+
+
+
+       <p>
+       <b>Olá! Me chamo Miguel,</b> tenho 29 anos e sou graduando em Análise de Desenvolvimento
+	   de Sistemas pelo 1º período na Universidade Estácio de Sá, sou apaixonado por tecnologia e 
+	   lidar com pessoas!
+	<br/>
+		
+		<p> </p>
+	<br/>
+	Sou uma pessoa que trabalha muito bem em grupo, bastante proativo e tenho um raciocínio
+	rápido para achar soluções.
+<p> </p>
+	
+	
+	<strong> R&S com foco nas Linguagens:</strong><p>
+	
+	HTML & CSS | PHP | Javascript | .NET | Node.Js | PHP |Python
+	<br/>
+	
+	<br/>
+	
+	</p>
+</body>
+</html>
